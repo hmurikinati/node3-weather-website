@@ -1,4 +1,3 @@
-console.log('Client side java script loded')
 
 // fetch('https://puzzle.mead.io/puzzle').then((response) => {
 // response.json().then((data) => {
